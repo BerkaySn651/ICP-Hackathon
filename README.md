@@ -9,7 +9,7 @@ Bu proje, kullanıcıların:
 Bu verilere dayalı sorgulamalar yapabilmesini,
 Tüm kayıtları listeleyebilmesini sağlar.
 
-3. Kütüphaneler ve Modüller
+2. Kütüphaneler ve Modüller
 
 Proje aşağıdaki kütüphaneleri kullanır:
 mo:base/Text: Metin (String) işlemleri için gerekli eşitlik ve hash fonksiyonları.
@@ -17,7 +17,7 @@ mo:base/HashMap: İsimler ve numaralar için harita veri yapısını kullanma.
 mo:base/Nat32: Nat türünü Nat32'ye dönüştürmek için kullanılır.
 mo:base/Array: Kayıtların birleştirilmesi ve listeleme işlemleri.
 
-4. Fonksiyonlar
+3. Fonksiyonlar
 
 3.1. registerText(name: Text)
 Görevi: Yeni bir isim kaydı oluşturur.
